@@ -1,0 +1,7 @@
+    create table user (
+       user_id int4 not null,
+        pass_word varchar(255),
+        role varchar(255),
+        user_name varchar(255),
+        primary key (user_id)
+    )"
